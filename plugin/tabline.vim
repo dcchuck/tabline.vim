@@ -30,9 +30,7 @@ function! Tabline()
     let s .= ' ' . tab .':'
     let s .= (bufname != '' ? '['. fnamemodify(bufname, ':t') . '] ' : '[No Name] ')
 
-    if bufmodified
-      let s .= '[+] '
-    endif
+    let s .= '|'
   endfor
 
   let s .= '%#TabLineFill#'
