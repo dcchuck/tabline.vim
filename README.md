@@ -14,6 +14,10 @@ Tabs in this case, refer to Vim Tabs and not the Terminal.app tabs.
 Based on settings found from [offensive
 thinking](http://www.offensivethinking.org/data/dotfiles/vimrc).
 
+## Changes
+
+Thanks to [mkitt](http://github.com/mkitt/tabline.vim) for repo. This fork does not have the modified flag in the tabs and is right aligned. Colors set as written below.
+
 ## Installation
 If you don't have a preferred installation method, I recommend
 installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and
