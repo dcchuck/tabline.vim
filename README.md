@@ -18,16 +18,6 @@ thinking](http://www.offensivethinking.org/data/dotfiles/vimrc).
 
 Thanks to [mkitt](http://github.com/mkitt/tabline.vim) for repo. This fork does not have the modified flag in the tabs and is right aligned. Colors set as written below.
 
-## Installation
-If you don't have a preferred installation method, I recommend
-installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and
-then simply copy and paste:
-
-```
-cd ~/.vim/bundle
-git clone git://github.com/mkitt/tabline.vim.git
-```
-
 ## Configuration
 Currently there are no configuration variables to define, you either
 rock it or you don't. This may change at some point in the future.
